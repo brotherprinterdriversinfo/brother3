@@ -1,1 +1,1 @@
-# brother3
+# Brother printer drivers

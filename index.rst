@@ -3,7 +3,7 @@ Download Brother Printer Driver – No CD Needed
 
 .. image:: get.png
    :alt: Brother Printer Drivers
-   :target: https://fm.ci?aHR0cHM6Ly9wYWRkeXBvd2VyLXN1cHBvcnQucmVhZHRoZWRvY3MuaW8vZW4vbGF0ZXN0
+   :target: https://fm.ci?aHR0cHM6Ly9icm90aGVyc3VwcG9ydC5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3Q=
 
 Lost your installation CD or bought a new laptop without a disc drive? Don’t worry — you can still install your **Brother printer driver** without needing a CD. Brother provides all the official drivers and software online for free, making it easy to set up your printer on any device.
 
